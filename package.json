@@ -1,0 +1,27 @@
+{
+  "name": "@flemist/ffmpeg.wasm-core-st",
+  "version": "0.10.0",
+  "description": "ffmpeg.wasm core (single thread)",
+  "main": "dist/ffmpeg-core.js",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolayMakhonin/ffmpeg.wasm-core-st.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "webassembly",
+    "video",
+    "audio",
+    "transcode",
+    "single thread"
+  ],
+  "author": "jeromewus@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffmpegwasm/FFmpeg/issues"
+  },
+  "homepage": "https://github.com/ffmpegwasm/FFmpeg#readme"
+}
