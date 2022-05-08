@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ffmpegwasm/FFmpeg/issues"
   },
-  "homepage": "https://github.com/ffmpegwasm/FFmpeg#readme"
+  "homepage": "https://github.com/ffmpegwasm/FFmpeg#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
