@@ -1,6 +1,6 @@
 {
   "name": "@flemist/ffmpeg.wasm-core-st",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "Single thread version of npm module: @ffmpeg/core@0.10.0",
   "main": "dist/ffmpeg-core.js",
   "files": [
